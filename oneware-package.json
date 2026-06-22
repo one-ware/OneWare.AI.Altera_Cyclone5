@@ -1,0 +1,37 @@
+{
+    "category": "OneAI Support",
+    "type": "Hardware",
+    "name": "OneAI Altera Cyclone 5 Support",
+    "id": "OneWare.AI.Altera_Cyclone5",
+    "description": "Altera Cyclone 5 support for OneAI Extension",
+    "iconUrl": "https://raw.githubusercontent.com/one-ware/OneWare.AI.Altera_Cyclone5/main/Icon.png",
+    "license": "MIT",
+    "tabs": [
+      {
+        "title": "Readme",
+        "contentUrl": "https://raw.githubusercontent.com/one-ware/OneWare.AI.Altera_Cyclone5/main/README.md"
+      },
+      {
+        "title": "License",
+        "contentUrl": "https://raw.githubusercontent.com/one-ware/OneWare.AI.Altera_Cyclone5/main/LICENSE"
+      }
+    ],
+    "links": [
+      {
+        "name": "Github",
+        "url": "https://github.com/one-ware/OneWare.AI.Altera_Cyclone5"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.0",
+        "targets": [
+          {
+            "target": "all",
+            "url": "https://github.com/one-ware/OneWare.AI.Altera_Cyclone5/releases/download/1.0/OneWare.AI.Altera_Cyclone5-1.0-all.zip"
+          }
+        ]
+      }
+    ]
+  }
+  
