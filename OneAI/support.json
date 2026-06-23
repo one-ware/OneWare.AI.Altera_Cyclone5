@@ -15,7 +15,7 @@
       "computeCapability": 3600,
       "computeCapabilityUnit": "MOPS",
       "dspBlocks": 36,
-      "memoryLimit": 192.25,
+      "memoryLimit": 192,
       "memoryLimitUnit": "KB"
     },
     {
@@ -23,7 +23,7 @@
       "computeCapability": 2500,
       "computeCapabilityUnit": "MOPS",
       "dspBlocks": 25,
-      "memoryLimit": 244.5,
+      "memoryLimit": 244,
       "memoryLimitUnit": "KB"
     },
     {
@@ -31,7 +31,7 @@
       "computeCapability": 6600,
       "computeCapabilityUnit": "MOPS",
       "dspBlocks": 66,
-      "memoryLimit": 422.875,
+      "memoryLimit": 422,
       "memoryLimitUnit": "KB"
     },
     {
@@ -39,7 +39,7 @@
       "computeCapability": 8400,
       "computeCapabilityUnit": "MOPS",
       "dspBlocks": 84,
-      "memoryLimit": 366.375,
+      "memoryLimit": 366,
       "memoryLimitUnit": "KB"
     },
     {
@@ -47,7 +47,7 @@
       "computeCapability": 5700,
       "computeCapabilityUnit": "MOPS",
       "dspBlocks": 57,
-      "memoryLimit": 191.5,
+      "memoryLimit": 191,
       "memoryLimitUnit": "KB"
     },
     {
@@ -55,7 +55,7 @@
       "computeCapability": 7000,
       "computeCapabilityUnit": "MOPS",
       "dspBlocks": 70,
-      "memoryLimit": 365.5,
+      "memoryLimit": 365,
       "memoryLimitUnit": "KB"
     },
     {
@@ -63,7 +63,7 @@
       "computeCapability": 15000,
       "computeCapabilityUnit": "MOPS",
       "dspBlocks": 150,
-      "memoryLimit": 610.5,
+      "memoryLimit": 610,
       "memoryLimitUnit": "KB"
     },
     {
@@ -71,7 +71,7 @@
       "computeCapability": 15000,
       "computeCapabilityUnit": "MOPS",
       "dspBlocks": 150,
-      "memoryLimit": 610.5,
+      "memoryLimit": 610,
       "memoryLimitUnit": "KB"
     },
     {
@@ -79,7 +79,7 @@
       "computeCapability": 8700,
       "computeCapabilityUnit": "MOPS",
       "dspBlocks": 87,
-      "memoryLimit": 556.25,
+      "memoryLimit": 556,
       "memoryLimitUnit": "KB"
     },
     {
@@ -95,7 +95,7 @@
       "computeCapability": 11200,
       "computeCapabilityUnit": "MOPS",
       "dspBlocks": 112,
-      "memoryLimit": 773.875,
+      "memoryLimit": 773,
       "memoryLimitUnit": "KB"
     },
     {
@@ -103,7 +103,7 @@
       "computeCapability": 34200,
       "computeCapabilityUnit": "MOPS",
       "dspBlocks": 342,
-      "memoryLimit": 1739.625,
+      "memoryLimit": 1739,
       "memoryLimitUnit": "KB"
     },
     {
@@ -111,7 +111,7 @@
       "computeCapability": 34200,
       "computeCapabilityUnit": "MOPS",
       "dspBlocks": 342,
-      "memoryLimit": 1739.625,
+      "memoryLimit": 1739,
       "memoryLimitUnit": "KB"
     }
   ]
