@@ -1,70 +1,118 @@
 {
-    "configurationName": "ALTERA_MAX_10",
-    "displayName": "Altera™ Max® 10",
-    "hardwareType": "FPGA",
-    "prioritizeSpeedOptimization": false,
-    "dspGroups": 1,
-    "prioritizeMemoryOptimization": true,
-    "memoryLimitUnit": "KB",
-    "optimizeForParallelExecution": true,
-    "quantizedCalculations": true,
-    "bitsPerValue": 8,
-    "types": [
-        {
-            "name": "10M02",
-            "computeCapability": 2240,
-            "computeCapabilityUnit": "MOPS",
-            "dspBlocks": 32,
-            "memoryLimit": 13,
-            "memoryLimitUnit": "KB"
-        },
-        {
-            "name": "10M04",
-            "computeCapability": 2800,
-            "computeCapabilityUnit": "MOPS",
-            "dspBlocks": 40,
-            "memoryLimit": 23,
-            "memoryLimitUnit": "KB"
-        },
-        {
-            "name": "10M08",
-            "computeCapability": 3360,
-            "computeCapabilityUnit": "MOPS",
-            "dspBlocks": 48,
-            "memoryLimit": 47,
-            "memoryLimitUnit": "KB"
-        },
-        {
-            "name": "10M16",
-            "computeCapability": 6300,
-            "computeCapabilityUnit": "MOPS",
-            "dspBlocks": 90,
-            "memoryLimit": 68,
-            "memoryLimitUnit": "KB"
-        },
-        {
-            "name": "10M25",
-            "computeCapability": 7700,
-            "computeCapabilityUnit": "MOPS",
-            "dspBlocks": 110,
-            "memoryLimit": 84,
-            "memoryLimitUnit": "KB"
-        },
-        {
-            "name": "10M40",
-            "computeCapability": 17500,
-            "computeCapabilityUnit": "MOPS",
-            "dspBlocks": 250,
-            "memoryLimit": 157,
-            "memoryLimitUnit": "KB"
-        },
-        {
-            "name": "10M50",
-            "computeCapability": 20160,
-            "computeCapabilityUnit": "MOPS",
-            "dspBlocks": 288,
-            "memoryLimit": 204,
-            "memoryLimitUnit": "KB"
-        }
-    ]
+  "configurationName": "ALTERA_CYCLONE_5",
+  "displayName": "Altera™ Cyclone® V",
+  "hardwareType": "FPGA",
+  "prioritizeSpeedOptimization": false,
+  "dspGroups": 1,
+  "prioritizeMemoryOptimization": true,
+  "memoryLimitUnit": "KB",
+  "optimizeForParallelExecution": true,
+  "quantizedCalculations": true,
+  "bitsPerValue": 8,
+  "types": [
+    {
+      "name": "5CSXC2",
+      "computeCapability": 10080,
+      "computeCapabilityUnit": "MOPS",
+      "dspBlocks": 144,
+      "memoryLimit": 192,
+      "memoryLimitUnit": "KB"
+    },
+    {
+      "name": "5CEBA2",
+      "computeCapability": 7000,
+      "computeCapabilityUnit": "MOPS",
+      "dspBlocks": 100,
+      "memoryLimit": 244,
+      "memoryLimitUnit": "KB"
+    },
+    {
+      "name": "5CEBA4",
+      "computeCapability": 18480,
+      "computeCapabilityUnit": "MOPS",
+      "dspBlocks": 264,
+      "memoryLimit": 422,
+      "memoryLimitUnit": "KB"
+    },
+    {
+      "name": "5CSXC4",
+      "computeCapability": 23520,
+      "computeCapabilityUnit": "MOPS",
+      "dspBlocks": 336,
+      "memoryLimit": 366,
+      "memoryLimitUnit": "KB"
+    },
+    {
+      "name": "5CGXC3",
+      "computeCapability": 15960,
+      "computeCapabilityUnit": "MOPS",
+      "dspBlocks": 228,
+      "memoryLimit": 191,
+      "memoryLimitUnit": "KB"
+    },
+    {
+      "name": "5CGXC4",
+      "computeCapability": 19600,
+      "computeCapabilityUnit": "MOPS",
+      "dspBlocks": 280,
+      "memoryLimit": 365,
+      "memoryLimitUnit": "KB"
+    },
+    {
+      "name": "5CEBA5",
+      "computeCapability": 42000,
+      "computeCapabilityUnit": "MOPS",
+      "dspBlocks": 600,
+      "memoryLimit": 610,
+      "memoryLimitUnit": "KB"
+    },
+    {
+      "name": "5CGXC5",
+      "computeCapability": 42000,
+      "computeCapabilityUnit": "MOPS",
+      "dspBlocks": 600,
+      "memoryLimit": 610,
+      "memoryLimitUnit": "KB"
+    },
+    {
+      "name": "5CSXC5",
+      "computeCapability": 24360,
+      "computeCapabilityUnit": "MOPS",
+      "dspBlocks": 348,
+      "memoryLimit": 556,
+      "memoryLimitUnit": "KB"
+    },
+    {
+      "name": "5CGXC7",
+      "computeCapability": 43680,
+      "computeCapabilityUnit": "MOPS",
+      "dspBlocks": 624,
+      "memoryLimit": 962,
+      "memoryLimitUnit": "KB"
+    },
+    {
+      "name": "5CSXC6",
+      "computeCapability": 31360,
+      "computeCapabilityUnit": "MOPS",
+      "dspBlocks": 448,
+      "memoryLimit": 773,
+      "memoryLimitUnit": "KB"
+    },
+    {
+      "name": "5CEBA9",
+      "computeCapability": 95760,
+      "computeCapabilityUnit": "MOPS",
+      "dspBlocks": 1368,
+      "memoryLimit": 1739,
+      "memoryLimitUnit": "KB"
+    },
+    {
+      "name": "5CGXC9",
+      "computeCapability": 95760,
+      "computeCapabilityUnit": "MOPS",
+      "dspBlocks": 1368,
+      "memoryLimit": 1739,
+      "memoryLimitUnit": "KB"
+    }
+  ]
 }
